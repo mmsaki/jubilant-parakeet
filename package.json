@@ -1,9 +1,6 @@
 {
   "name": "project",
   "packageManager": "yarn@3.4.1",
-  "scripts": {
-    "test": "hardhat test",
-  },
   "devDependencies": {
     "@ethersproject/abi": "^5.4.7",
     "@ethersproject/bytes": "^5.0.0",
